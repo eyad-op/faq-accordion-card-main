@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ Accordion Card
 
-link to live site: https://faq-accordion-card-main-umber.vercel.app/
+link for demo: https://faq-accordion-card-main-umber.vercel.app/
 
 ![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
 
